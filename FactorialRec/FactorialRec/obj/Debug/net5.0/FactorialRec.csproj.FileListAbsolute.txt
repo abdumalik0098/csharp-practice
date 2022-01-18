@@ -1,0 +1,16 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\bin\Debug\net5.0\FactorialRec.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\bin\Debug\net5.0\FactorialRec.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\bin\Debug\net5.0\FactorialRec.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\bin\Debug\net5.0\FactorialRec.runtimeconfig.dev.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\bin\Debug\net5.0\FactorialRec.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\bin\Debug\net5.0\ref\FactorialRec.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\bin\Debug\net5.0\FactorialRec.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\FactorialRec.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\FactorialRec.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\FactorialRec.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\FactorialRec.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\FactorialRec.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\FactorialRec.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\ref\FactorialRec.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\FactorialRec.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\FactorialRec\FactorialRec\obj\Debug\net5.0\FactorialRec.genruntimeconfig.cache

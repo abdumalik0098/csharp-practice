@@ -1,0 +1,16 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\bin\Debug\net5.0\ClassBuilding.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\bin\Debug\net5.0\ClassBuilding.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\bin\Debug\net5.0\ClassBuilding.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\bin\Debug\net5.0\ClassBuilding.runtimeconfig.dev.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\bin\Debug\net5.0\ClassBuilding.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\bin\Debug\net5.0\ref\ClassBuilding.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\bin\Debug\net5.0\ClassBuilding.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ClassBuilding.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ClassBuilding.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ClassBuilding.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ClassBuilding.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ClassBuilding.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ClassBuilding.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ref\ClassBuilding.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ClassBuilding.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\ClassBuilding\ClassBuilding\obj\Debug\net5.0\ClassBuilding.genruntimeconfig.cache

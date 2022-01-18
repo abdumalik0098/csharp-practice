@@ -1,0 +1,16 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\bin\Debug\net5.0\Polindrom.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\bin\Debug\net5.0\Polindrom.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\bin\Debug\net5.0\Polindrom.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\bin\Debug\net5.0\Polindrom.runtimeconfig.dev.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\bin\Debug\net5.0\Polindrom.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\bin\Debug\net5.0\ref\Polindrom.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\bin\Debug\net5.0\Polindrom.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\Polindrom.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\Polindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\Polindrom.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\Polindrom.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\Polindrom.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\Polindrom.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\ref\Polindrom.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\Polindrom.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\Polindrom\Polindrom\obj\Debug\net5.0\Polindrom.genruntimeconfig.cache

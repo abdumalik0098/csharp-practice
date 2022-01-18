@@ -1,0 +1,16 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\BinarySTreeArrays.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\BinarySTreeArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\BinarySTreeArrays.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\BinarySTreeArrays.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\BinarySTreeArrays.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\bin\Debug\net5.0\BinarySTreeArrays.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\bin\Debug\net5.0\BinarySTreeArrays.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\bin\Debug\net5.0\BinarySTreeArrays.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\bin\Debug\net5.0\BinarySTreeArrays.runtimeconfig.dev.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\bin\Debug\net5.0\BinarySTreeArrays.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\bin\Debug\net5.0\ref\BinarySTreeArrays.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\bin\Debug\net5.0\BinarySTreeArrays.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\BinarySTreeArrays.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\ref\BinarySTreeArrays.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\BinarySTreeArrays.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\BinarySTreeArrays\BinarySTreeArrays\obj\Debug\net5.0\BinarySTreeArrays.genruntimeconfig.cache

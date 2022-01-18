@@ -1,0 +1,16 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\bin\Debug\net5.0\AddItemToArray.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\bin\Debug\net5.0\AddItemToArray.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\bin\Debug\net5.0\AddItemToArray.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\bin\Debug\net5.0\AddItemToArray.runtimeconfig.dev.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\bin\Debug\net5.0\AddItemToArray.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\bin\Debug\net5.0\ref\AddItemToArray.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\bin\Debug\net5.0\AddItemToArray.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\AddItemToArray.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\AddItemToArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\AddItemToArray.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\AddItemToArray.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\AddItemToArray.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\AddItemToArray.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\ref\AddItemToArray.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\AddItemToArray.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\AddItemToArray\AddItemToArray\obj\Debug\net5.0\AddItemToArray.genruntimeconfig.cache

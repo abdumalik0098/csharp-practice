@@ -1,0 +1,16 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\bin\Debug\net5.0\StackApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\bin\Debug\net5.0\StackApp.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\bin\Debug\net5.0\StackApp.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\bin\Debug\net5.0\StackApp.runtimeconfig.dev.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\bin\Debug\net5.0\StackApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\bin\Debug\net5.0\ref\StackApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\bin\Debug\net5.0\StackApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\StackApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\StackApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\StackApp.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\StackApp.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\StackApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\StackApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\ref\StackApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\StackApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\StackApp\StackApp\obj\Debug\net5.0\StackApp.genruntimeconfig.cache

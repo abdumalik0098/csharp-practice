@@ -1,0 +1,16 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\bin\Debug\net5.0\OneLinkList.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\bin\Debug\net5.0\OneLinkList.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\bin\Debug\net5.0\OneLinkList.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\bin\Debug\net5.0\OneLinkList.runtimeconfig.dev.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\bin\Debug\net5.0\OneLinkList.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\bin\Debug\net5.0\ref\OneLinkList.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\bin\Debug\net5.0\OneLinkList.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\OneLinkList.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\OneLinkList.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\OneLinkList.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\OneLinkList.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\OneLinkList.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\OneLinkList.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\ref\OneLinkList.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\OneLinkList.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\OneLinkList\OneLinkList\obj\Debug\net5.0\OneLinkList.genruntimeconfig.cache

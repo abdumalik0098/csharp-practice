@@ -1,0 +1,16 @@
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\bin\Debug\net5.0\CsharpOOP.exe
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\bin\Debug\net5.0\CsharpOOP.deps.json
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\bin\Debug\net5.0\CsharpOOP.runtimeconfig.json
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\bin\Debug\net5.0\CsharpOOP.runtimeconfig.dev.json
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\bin\Debug\net5.0\CsharpOOP.dll
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\bin\Debug\net5.0\ref\CsharpOOP.dll
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\bin\Debug\net5.0\CsharpOOP.pdb
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\CsharpOOP.csproj.AssemblyReference.cache
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\CsharpOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\CsharpOOP.AssemblyInfoInputs.cache
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\CsharpOOP.AssemblyInfo.cs
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\CsharpOOP.csproj.CoreCompileInputs.cache
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\CsharpOOP.dll
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\ref\CsharpOOP.dll
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\CsharpOOP.pdb
+D:\Education\CSharp\Programms\CsharpOOP\CsharpOOP\obj\Debug\net5.0\CsharpOOP.genruntimeconfig.cache

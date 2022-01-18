@@ -1,0 +1,16 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\bin\Debug\net5.0\QueueApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\bin\Debug\net5.0\QueueApp.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\bin\Debug\net5.0\QueueApp.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\bin\Debug\net5.0\QueueApp.runtimeconfig.dev.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\bin\Debug\net5.0\QueueApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\bin\Debug\net5.0\ref\QueueApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\bin\Debug\net5.0\QueueApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\QueueApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\QueueApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\QueueApp.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\QueueApp.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\QueueApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\QueueApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\ref\QueueApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\QueueApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Programms\QueueApp\QueueApp\obj\Debug\net5.0\QueueApp.genruntimeconfig.cache
